@@ -18,6 +18,8 @@ ADDRESSES WITHOUT A RETWEET WILL NOT BE AWARDED!
 If you notice that your message is gone/deleted, it means that it has been noted for the next airdrop batch. 
 To verify, please see: https://github.com/butttcoin/AirdropLotto/blob/master/addresses.csv
 
+## Where is my Telegram post, why was it deleted?
+Don't worry, it means that you were added, and we are keeping things clean.  Please see: https://github.com/butttcoin/AirdropLotto/blob/master/addresses.csv
 
 ## Why Twitter and Telegram ?
 We simply need to expand on our community, and although ButtCoin does not agree with some of the Twitter as well as Telegram policies, it is a necessary requirement to make the project grow within the crypto community. It is currently a standard, and hopeffuly it will be changed in the future adding more privacy to people's choices and options.
