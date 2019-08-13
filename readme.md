@@ -59,4 +59,4 @@ FOURTH PRICE: 1,000.0 0xBUTTS
 
 FIFTH PRICE: 100.0 0xBUTTS
 
-The burning/transfer reduction will apply.
+The burning/transfer reduction will be calculated, so you get an exact amount.
