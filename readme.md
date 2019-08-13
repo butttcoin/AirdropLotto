@@ -35,7 +35,7 @@ Before sending the tokens, the random amount of tokens will be generated.
 This airdrop will end as soon as we feel that our community requirements are met, and that we have enough people on a Telegram group.
 
 ## I am already on a Telegram, can I still apply for an airdrop ?
-Yes, if and only if, you hold 100 0xBUTTs or less on your account.
+Yes, if and only if, you hold 100 0xBUTTs or less on your account. You will also have to re-tweet.
 
 ## What is a lottery and how does it work ?
 To make things more interesting, the minimum amount of the tokens that will be sent is 100. The maximum is 500. A source-code will be released, and this page updated with a link.
