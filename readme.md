@@ -20,7 +20,7 @@ To verify, please see: https://github.com/butttcoin/AirdropLotto/blob/master/add
 
 
 ## Why Twitter and Telegram ?
-We simply need to expand on our community, and although ButtCoin does not agree with some of the Twitter as well as Telegram policies, it is a necessary requirement to make the project grow within the crypto community. It is currently a standard, hopeffuly it will be changed in the future.
+We simply need to expand on our community, and although ButtCoin does not agree with some of the Twitter as well as Telegram policies, it is a necessary requirement to make the project grow within the crypto community. It is currently a standard, and hopeffuly it will be changed in the future adding more privacy to people's choices and options.
 
 ## Why an airdrop at all ?
 This way, we can make sure that 0xBUTT token is properly distributed and our community growth established.
