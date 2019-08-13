@@ -1,1 +1,2 @@
-# ButtCoin Airdrop Lottery
+# ButtCoin Lottery Airdrop
+
