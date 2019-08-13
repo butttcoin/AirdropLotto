@@ -48,9 +48,13 @@ Simply because the owner was the last one to make a transfer, so 1% goes back to
 Upon the completion of an airdrop, we will award random accounts the standard lottery winning distribution. 
 
 FIRST PRICE: 1,000,000.0 0xBUTTs
+
 SECOND PRICE: 100,000.0 0xBUTTs
+
 THIRD PRICE: 10,000.0 0xBUTTs
+
 FOURTH PRICE: 1000.0 0xBUTTS
+
 FIFTH PRICE: 100.0 0xBUTTS
 
 The burning/transfer reduction will apply.
