@@ -38,7 +38,7 @@ This airdrop will end as soon as we feel that our community requirements are met
 Yes, if and only if, you hold 100 0xBUTTs or less on your account. You will also have to re-tweet.
 
 ## What is a lottery and how does it work ?
-To make things more interesting, the minimum amount of the tokens that will be sent is 100. The maximum is 500. A source-code will be released, and this page updated with a link.
+To make things more interesting, the minimum amount of the tokens that will be sent is 100. The maximum is 500. A source-code is very simple and distribution is random: https://github.com/butttcoin/AirdropLotto/blob/master/Lottery.java
 
 ## You said 100 0xBUTTs, but I got 98... how come ?
 This is because we are burning 1% and 1% goes to a previous sender of a token.
