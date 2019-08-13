@@ -4,7 +4,7 @@
 
 
 ## Requirements
-1. Retweet the 0xBUTT twitter announcement found at:
+1. Retweet the 0xBUTT twitter announcement found at: https://twitter.com/0xbutt/status/1161307288210198528
 2. Go to Telegram group (https://t.me/BUTT_Coin) and post:
 
 YOUR_ETH_ADDRESS : YOUR_RETWEET_URL
