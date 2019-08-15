@@ -1,3 +1,25 @@
+# THIS AIRDROP HAS ENDED!
+
+Thank you for participating in the Lottery Airdrop. The lucky winners will be announced soon.
+
+Please give us some time for all tokens to be distributed. 
+There are about 10 batches of 100 addresses, and to see which ones have been processed and/or are processing, go to:
+https://etherscan.io/address/0x60af68d5fe8a50310adc90d5510597229cb1167b
+The submitted batches are marked as "DONE" in a CSV file:
+https://github.com/butttcoin/AirdropLotto/blob/master/addresses.csv
+Otherwise, we are waiting for ETH network to complete transactions while keeping all information in order, and without mistakes.
+
+There is a high chance that some of you did not get the tokens in your wallets due to a mistake in posting your re-tweet address. 
+If that is the case, you will have to find your address on this list: https://github.com/butttcoin/AirdropLotto/blob/master/addresses.csv
+If not on the list, then please send me a private message. Do include your twitter username and your ETH address, and DO NOT remove your retweet. 
+Only those retweets that happened before the end of the airdrop will be rewarded.
+In case you missed this airdrop, for whatever reason, there will be more in the future and it will be announced. 
+
+Please follow 0xBUTT on Twitter (@0xbutt) or join this Telegram group. 
+
+Thank you kindly for participating and supporting this project. It was truly a fun airdrop.
+
+
 # ButtCoin Lottery Airdrop
 
 ![alt text](https://raw.githubusercontent.com/butttcoin/AirdropLotto/master/airdrop3a.png)
